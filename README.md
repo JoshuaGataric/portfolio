@@ -6,7 +6,7 @@ Hi! I'm Joshua Gataric, currently pursuing a Master of Data Science at UCI. I ha
 
 ## Education 
 - M.S. Data Science - UC Irvine(Expected Graduation December 2025)
-- B.S. Statistics - San Diego State, 
+- B.S. Statistics - San Diego State, Magna Cum Laude
 
 ## Projects
 - [Wine Tasting Model Training Project](https://github.com/JoshuaGataric/Wine-Tasting-Model-Training-Project)
