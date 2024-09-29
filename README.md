@@ -3,7 +3,7 @@
 ## Bio
 
 ## Education 
-- M.S. Data Science - UC Irvine
+- M.S. Data Science - UC Irvine(Expected Graduation December 2025)
 - B.S. Statistics - San Diego State
 
 ## Projects
